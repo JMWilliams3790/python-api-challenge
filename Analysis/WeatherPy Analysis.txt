@@ -1,0 +1,7 @@
+WeatherPy Analysis
+
+1) The strongest correlation of all variables according to our linear regression plots is the Temperature vs Latitude Correlation. The temperature clearly tends
+	to rise or fall depending on latitude.
+2) In general selected cities were more likely to have a higher humidity. The top 75% of the data was 64% humidity or more. The lowest reading wasn't even 0.
+
+3) At the time this data was retrieved there was absolutely no correlation with cloudiness. There did not seem to be any consistency among longitude and latitude.
